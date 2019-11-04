@@ -1,6 +1,22 @@
 # Thesis
 Development and validation of pharmacoinformatic similarity-based tools for safety assessment of chemicals 
 
+### Training and Validations Sets.xlsx: 
+This file contains the training and validation sets used in this thesis.
+
+## Similarity RA part:
+
+### Unsuperviserd_RA.ipynb:
+Jupyter notebook for running Unsupervised Read Across with different similarity metrics
+
+### Superviserd_RA.ipynb:
+Jupyter notebook for running Supervised Read Across with different similarity metrics
+
+### Radial_Plots.ipynb:
+Jupyter notebook for creating radial plots with similarity predictions
+
+## QSAR models part:
+
 ### Annex_Thesis_Tables.xlsx: This file contains 7 tables described below.
 
 - S1 Table. Cross-validation statistics of AE models. Detailed cross-validation statistics including other AEs not satisfying quality requirements as well as models built under non-conformal framework.
@@ -17,11 +33,12 @@ Development and validation of pharmacoinformatic similarity-based tools for safe
 
 - S7 Table. Model documentation. Includes detailed information on the models built in this work.
 
-### Training and Validations Sets.xlsx: This file contains the training and validation sets used in this thesis.
+### build_AEs_models.ipynb: 
+Jupyter notebook for building the Adverse Effects Models
 
-### build_AEs_models.ipynb: for building the Adverse Effects Models
+### predict_DILI.ipynb: 
+Jupyter notebook for Running AEs models and make predictions with the optimization consensus rule.
 
-### predict_DILI.ipynb: for Running AEs models and make predictions with the optimization consensus rule.
-
-### Metamodels.ipynb: For building the expert models and make predictions.
+### Metamodels.ipynb:
+Jupyter notebook For building the expert models and make predictions.
 
