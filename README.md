@@ -1,5 +1,5 @@
 # Thesis
-## Development and validation of pharmacoinformatic similarity-based tools for safety assessment of chemicals 
+## Development and Validation of Pharmacoinformatic Similarity-based Tools for Safety Assessment of Chemicals 
 
 ### thesis_environment.yml:
 Thesis Conda environment to be installed for running the Jupyter notebooks. To install the Jupyter notebooks first install the Conda environment follow the instructions written in Flame github (https://github.com/phi-grib/flame). When you are going to create the conda environment with all the dependencies and extra packages (numpy, RDKit...), instead of using the flame environment.yml provided, replace the flame environment.yml with the one we provided (thesis_environment.yml), which assures us to use all the versions of the programs we used. Nevertheless, if you want to use the last versions released of whole programs, just install flame as it is and then install the other ones.
