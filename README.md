@@ -44,5 +44,5 @@ Jupyter notebook for building the Adverse Effects Models
 Jupyter notebook for Running AEs models and make predictions with the optimization consensus rule.
 
 ### Metamodels.ipynb:
-Jupyter notebook For building the expert models and make predictions.
+Jupyter notebook for building the expert models and make predictions.
 
