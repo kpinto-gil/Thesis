@@ -10,10 +10,10 @@ This file contains the training and validation sets used in this thesis.
 
 ## Similarity RA part:
 
-### Unsuperviserd_RA.ipynb:
+### Unsuperviserd-RA.ipynb:
 Jupyter notebook for running Unsupervised Read Across with different similarity metrics
 
-### Superviserd_RA.ipynb:
+### Superviserd-RA.ipynb:
 Jupyter notebook for running Supervised Read Across with different similarity metrics
 
 ### Radial_Plots.ipynb:
